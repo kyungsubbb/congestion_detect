@@ -17,10 +17,17 @@
  - 적외선 장애물 회피센서 모듈 (HS-IRSM)
  - 아두이노 I2C 1602 LCD (SZH-EK101)
  
+ 
+ ![회로판](https://user-images.githubusercontent.com/48882962/99149243-202ff900-26d0-11eb-9695-4386960c05fe.JPG)
+ 
+ 
  2) 소프트웨어 구성 
  
  - 아두이노 IDE
  - Node.js
+ 
+
+ ![웹페이지로 표시](https://user-images.githubusercontent.com/48882962/99149240-1f976280-26d0-11eb-8206-de0337f60a96.JPG)
  
  ### 3. 결론 
  
